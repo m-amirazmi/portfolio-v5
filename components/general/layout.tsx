@@ -13,7 +13,7 @@ export default function Layout({ children }: TLayout) {
     >
       <Header />
       {children}
-      <Footer />
+      {/* <Footer /> */}
     </main>
   );
 }
